@@ -1,4 +1,8 @@
-/*  your css code here. If applicable */
+body {
+  background-color: #fafafa;
+  margin: 0;
+  font-family: sans-serif;
+}
 
 .cards-wrapper {
   display: grid;
@@ -25,12 +29,11 @@
 }
 
 .card h1 {
-  font-size: 1.5em;
+  font-size: 36px;
   margin-bottom: 10px;
 }
 
 .card p {
-  font-size: 0.75em;
+  font-size: 18px;
   line-height: 1.5;
 }
-
